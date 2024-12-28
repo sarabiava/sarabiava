@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning mobile app development with Flutter<br>🎯 Goals: being a game developer!</p>
+<p align="left">📚 I'm currently learning mobile app development with Flutter and majoring in AI.</p>
 
 ###
 
